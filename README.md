@@ -17,8 +17,7 @@ The focus is on practicing **Rust fundamentals** and building real projects whil
 
 ## Contents
 
-- `rustlings/` – exercises completed from Rustlings.
-- `solutions/` – solutions and notes from Exercism Rust exercises.
+- `solutions/rust` – solutions and notes from Exercism Rust exercises.
 - `projects/` – small Rust projects built to reinforce learning.
 - `docs/` – notes, explanations, or guides during learning.
 
