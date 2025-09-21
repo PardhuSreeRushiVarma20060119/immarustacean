@@ -1,14 +1,12 @@
-# immarustacean
-
-**The Rust Programming Track**
+# *immarustacean*
+## The Rust Programming Track
 
 ---
 
 ## Overview
 
 Welcome to **immarustacean**, my personal Rust learning repository! This repo documents exercises, projects, and experiments as I progress through the Rust programming language.
-
-The focus is on practicing **Rust fundamentals** and building real projects while learning from:
+The focus is on practicing **Rust fundamentals & programming** and building real projects while learning from:
 
 - [Rustlings](https://github.com/rust-lang/rustlings) – interactive Rust exercises.
 - [Exercism - Rust Track](https://exercism.org/tracks/rust) – problem-solving exercises to reinforce concepts.
